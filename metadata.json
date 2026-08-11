@@ -1,0 +1,6 @@
+{
+  "name": "Ucapan Ulang Tahun Romantis",
+  "description": "Website ucapan selamat ulang tahun romantis dengan galeri foto kenangan, musik latar favorit, pesan cinta, timeline momen, dan efek kejutan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
